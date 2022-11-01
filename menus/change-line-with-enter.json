@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle change-line-with-enter",
+        "command": "change-line-with-enter:run"
+      }
+    ]
+  }
+}

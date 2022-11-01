@@ -1,0 +1,13 @@
+{
+  "name": "change-line-with-enter",
+  "main": "./lib/change-line-with-enter",
+  "version": "0.0.0",
+  "description": "change line with ctrl-enter",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/change-line-with-enter",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
