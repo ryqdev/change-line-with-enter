@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "change line with ctrl-enter",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/change-line-with-enter",
+  "repository": "https://github.com/Yukun4119/change-line-with-enter",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
