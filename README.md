@@ -1,12 +1,12 @@
 # Change Line with Enter
 
-change-line-with-enter is a plugin that helps you to insert </br> automatically
+change-line-with-enter is a plugin that helps you to insert `<br>` automatically
 with shortcut.
 
 In typora, we can change line with one hit of `enter`, however, most markdown
 editors don't support change line with only one 'enter'.  Therefore,  this plugin can help to change line with `ctrl-enter`
 
-![](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/ubuntu_img/20221101214844.png)
+![](https://raw.githubusercontent.com/Yukun4119/BlogImg/main/ubuntu_img/20221103231924.png)
 
 ## Install
 ```shell
